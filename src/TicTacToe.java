@@ -27,7 +27,6 @@ class TicTacToe {
                         scanner.nextLine();
                         break;
                     } else {
-                        String temp = scanner.nextLine();
                         System.out.print("(X) Enter a number from 1 to 9 (0 - exit): ");
                     }
                 }
