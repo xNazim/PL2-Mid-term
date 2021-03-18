@@ -16,7 +16,7 @@ import java.util.Scanner;
 ### Two classes has been created to build this game: *TicTacToe.java* and *Menu.java*.
 
 
-## If you want to start game with menu, RUN *Menu*. If you don't want just RUN *TicTacToe*.
+## If you want to start game download *TicTacToe.java* and *Menu.java* files and RUN *Menu.java*
 
 # [@AIU](http://alatoo.edu.kg/)
 
