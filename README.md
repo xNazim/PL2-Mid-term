@@ -18,7 +18,9 @@ import java.util.Scanner;
 
 ## If you want to start game download *TicTacToe.java* and *Menu.java* files and RUN *Menu.java*
 
-# [@AIU](http://alatoo.edu.kg/)
+
+# [Video Review](https://youtu.be/WNrd4W6-yBI)
+
 
 
 
